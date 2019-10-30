@@ -32,7 +32,10 @@
 
 def naming_system(life_on_earth)
   life_on_earth = {
-    
+    PORTION_1 = {},
+    PORTION_2 = {},
+    PORTION_3 = {},
+    PORTION_4 = {}
   }
   # Remember:
   #  Kingdom
