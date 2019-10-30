@@ -30,7 +30,10 @@
 #   sub_category: nil
 # }
 
-def naming_system
+def naming_system(life_on_earth)
+  life_on_earth = {
+    
+  }
   # Remember:
   #  Kingdom
   #  Phylum
