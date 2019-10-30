@@ -30,7 +30,7 @@
 #   sub_category: nil
 # }
 
-def naming_system(life_on_earth)
+def naming_system(hash, hash)
   life_on_earth = {
     PORTION_1: {},
     PORTION_2: {},
